@@ -1,4 +1,4 @@
-# SQ_CodePush
+# ONE-CodePush
 React Native For Android 热更新实现思路
 
 该项目主要是为大家提供一个思路，如何在React Native 开发过程中实现热更新，由于时间的原因，其中未能实现文件的校验，后期会加上，
